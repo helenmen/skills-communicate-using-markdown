@@ -1,8 +1,1 @@
 # 1
-## smaller header
-### getting smaller
-#### and even smaller
-##### tiny
-###### can you even see me
-normal text size
-git commit, wrote headings
